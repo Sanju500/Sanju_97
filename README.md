@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjeev Kumar
 - 👀 I’m interested in Data Science, Android Development, Software Development, Cybersecurity and Artificial Intelligence
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working as intern in Finnovation Tech Solutions Pvt. Ltd., Bengaluru
 - 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me @ https://www.linkedin.com/in/sanjeev-kumar-041b2a17b/
 
